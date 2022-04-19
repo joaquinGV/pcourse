@@ -1,5 +1,6 @@
 import random
 
+# Juego de numeros con 3 dificultades
 
 def dificultad():
     dif = int(input(""""Seleccione el grado de dificultad
